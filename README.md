@@ -44,7 +44,7 @@ To run this project, you'll need to have Python installed along with the necessa
 
 Step-by-step installation:
 Clone the repository:
-git clone https://github.com/jayanth0706/EDAFinalProject.git
+git clone https://github.com/Santoshkaza/Sales_Analysis_Exploratory_Data_Analysis
 
 Navigate to the project directory:
 cd EDAFinalProject
@@ -98,7 +98,7 @@ Data visualizations using various types of plots (histograms, scatter plots, hea
 Optional: Model training and evaluation (if included)
 Example commands:
 # Clone the repository
-git clone https://github.com/jayanth0706/EDAFinalProject.git
+git clone https://github.com/Santoshkaza/Sales_Analysis_Exploratory_Data_Analysis
 
 # Navigate to the repository
 cd EDAFinalProject
@@ -116,7 +116,7 @@ Visualizations that help illustrate the findings
 Summarize major findings here (if any).
 
 Contributors
-Jayanth – Main contributor and project creator
+Kaza Santosh Vinay – Main contributor and project creator
 Feel free to contribute by forking the repository, creating a new branch, and submitting a pull request. All contributions are welcome!
 
 License
